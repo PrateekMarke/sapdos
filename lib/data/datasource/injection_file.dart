@@ -1,0 +1,1 @@
+//This will use for example :- String Localization file .

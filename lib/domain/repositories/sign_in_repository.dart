@@ -1,0 +1,1 @@
+//This Repository class to return either Success or Failure
